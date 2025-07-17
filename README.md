@@ -27,3 +27,10 @@ A partir do dia 22/07/25 e serão informadas através de e-mail. Caso a pessoa n
 **6 -A lista de frequência fica disponível após as atividades de engajamento?**
 
 NÃO, a lista de frequência é disponibilizada durante o encontro online em torno de 25 a 30 minutos após o início e é retirada logo após o término do encontro.
+
+**7 - O que eu farei na COP?**
+
+Depende do nível de Apoio Operacional você está. 
+* Para AO1, você vai trabalhar com o atendimento ao público, organização de eventos ou funções similares, apoio na gestão de fluxo de pessoas, almoxarifado e apoio na gestão de serviços de alimentação, acessibilidade, sustentabilidade e saúde.
+* Para AO2, você vai trabalhar com o atendimento ao público, organização de eventos ou funções similares e atividades de credenciamento.
+* Para AO3, você dará apoio a secretariados, eventos internacionais, mudanças climáticas, atividades de comunicação, de tecnologia da informação, apoio em protocolos e cerimoniais ou funções administrativas.
