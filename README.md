@@ -34,3 +34,7 @@ Depende do nível de Apoio Operacional você está.
 * Para AO1, você vai trabalhar com o atendimento ao público, organização de eventos ou funções similares, apoio na gestão de fluxo de pessoas, almoxarifado e apoio na gestão de serviços de alimentação, acessibilidade, sustentabilidade e saúde.
 * Para AO2, você vai trabalhar com o atendimento ao público, organização de eventos ou funções similares e atividades de credenciamento.
 * Para AO3, você dará apoio a secretariados, eventos internacionais, mudanças climáticas, atividades de comunicação, de tecnologia da informação, apoio em protocolos e cerimoniais ou funções administrativas.
+
+**8 - Todos os candidatos terão que passar pela entrevista?**
+
+Não. Somente os candidatos *deferidos para entrevista* devem ser entrevistados.
