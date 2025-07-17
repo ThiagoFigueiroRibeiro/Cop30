@@ -20,14 +20,10 @@ Serão 6 módulos.
 
 Não, somente até o módulo 3 na data do dia 16/07/2025.
 
-**5 -Pq existe esta distinção de turmas?**
-
-Pq tiveram dois editais, o 06 que corresponde a turma 1 e o 07 que corresponde a turma 2.
-
-**6 -Quando terão início as entrevistas de inglês para as pessoas que foram DEFERIDAS PARA ENTREVISTA?**
+**5 -Quando terão início as entrevistas de inglês para as pessoas que foram DEFERIDAS PARA ENTREVISTA?**
 
 A partir do dia 22/07/25 e serão informadas através de e-mail. Caso a pessoa não possa participar no dia e horário marcado, informar imediatamente e não aguardar passar da data e somente depois se justificar.
 
-**7 -A lista de frequência fica disponível após as atividades de engajamento?**
+**6 -A lista de frequência fica disponível após as atividades de engajamento?**
 
 NÃO, a lista de frequência é disponibilizada durante o encontro online em torno de 25 a 30 minutos após o início e é retirada logo após o término do encontro.
