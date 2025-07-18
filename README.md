@@ -38,3 +38,7 @@ Depende do nível de Apoio Operacional você está.
 **8 - Todos os candidatos terão que passar pela entrevista?**
 
 Não. Somente os candidatos *deferidos para entrevista* devem ser entrevistados.
+
+**9 - Fui selecionado para um nível de Apoio Operacional mas quero mudar. É possível?**
+
+Sim. Você precisa enviar um e-mail para a *voluntarioscop30@sectet.pa.gov.br* com seu pedido, nome completo, número do processo seletivo (006 ou 007), nível de Apoio Operacional que você está e nível que você deseja.
