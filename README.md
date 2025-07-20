@@ -55,3 +55,7 @@ Sim. Você precisa enviar um e-mail para a *voluntarioscop30@sectet.pa.gov.br* c
 **12 - Já se tem mais informações sobre a capacitação presencial próxima do evento ou só vão repassar mais adiante?**
 
 Ainda não tivemos informações sobre datas de encontros presenciais até o dia de hoje, 18/07
+
+**13 - E sobre esses encontros (online e presenciais), como ficamos sabendo?**
+
+Eles vão avisando na própria plataforma, então fique atento. Uns dias antes dos encontros, aparece num flyer lá logo q vc entra. A gente avisa pelo grupo não-oficial do whatsapp também.
