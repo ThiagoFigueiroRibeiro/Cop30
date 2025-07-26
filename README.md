@@ -113,3 +113,6 @@ R: No momento, esses candidatos não receberão os e-mails, mas isso já está s
   
 * Duração média: 5–7 minutos, descritas como "tranquilas" e "acolhedoras".
 
+**#22 - Se eu uso nome social, mas não utilizo em documentos oficiais, posso solicitar de alguma forma a troca de meu nome na plataforma?**
+
+Pode! No entanto, é necessário abrir uma solicitação via o e-mail da SECTEC para a troca no sistema e sua devida identificação (voluntarioscop30@sectec.pa.gov.br).
