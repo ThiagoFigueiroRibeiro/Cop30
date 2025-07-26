@@ -18,7 +18,7 @@ Serão 6 módulos.
 
 **#4 -Todos os módulos já estão disponíveis?**
 
-Não, somente até o módulo 3 na data do dia 16/07/2025.
+Não, somente até o módulo 4 na data do dia 26/07/2025.
 
 **#5 -Quando terão início as entrevistas de inglês para as pessoas que foram DEFERIDAS PARA ENTREVISTA?**
 
@@ -54,7 +54,7 @@ Sim. Você precisa enviar um e-mail para a *voluntarioscop30@sectet.pa.gov.br* c
 
 **#12 - Já se tem mais informações sobre a capacitação presencial próxima do evento ou só vão repassar mais adiante?**
 
-Ainda não tivemos informações sobre datas de encontros presenciais até o dia de hoje, 18/07
+Ainda não tivemos informações sobre datas de encontros presenciais até o dia de hoje, 26/07
 
 **#13 - E sobre esses encontros (online e presenciais), como ficamos sabendo?**
 
@@ -74,7 +74,7 @@ R: A pessoa que foi deferida não precisará fazer uma entrevista porque já apr
 
 **#17 - Quem está sendo convocado?**
 
-R: Por enquanto todos os do edital 006 (turma 01) que foram deferidos para entrevista. 
+R: Por enquanto (Hoje 26/07) todos os do edital 006 (turma 01) que foram deferidos para entrevista. 
 
 **#18 - Em caso do candidato querer ser realocado, o que ele deve fazer?**
 
@@ -100,10 +100,16 @@ R: No momento, esses candidatos não receberão os e-mails, mas isso já está s
 
 * Os participantes estão realizando entrevistas em inglês com professores (Alexandre Barros, Monica, Luiz Ferreira, etc.).
 * Principais perguntas frequentes:
-    Tell me about yourself
-    What do you like to do in your free time?
-    How can you make a difference at the event?
-    How are you preparing to be a volunteer?
-    Why do you think Belém was chosen to host COP30?
+
+    _Tell me about yourself_
+  
+    _What do you like to do in your free time?_
+
+    _How can you make a difference at the event?_
+  
+    _How are you preparing to be a volunteer?_
+  
+    _Why do you think Belém was chosen to host COP30?_
+  
 * Duração média: 5–7 minutos, descritas como "tranquilas" e "acolhedoras".
 
